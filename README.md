@@ -13,7 +13,7 @@
 - IDE: `Visual Studio 2022`
 - Other: `Photoshop CC 2019`, `Krita`, `Obsidian`
 - Release date: `February 25, 2024`
-- Platfoms: `Browser`, `Pc`, `Telephone`
+- Platforms: `Browser`, `Pc`, `Telephone`
 
 #### 🗂 Assets:
 - DOTween — <a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676" target="_blank">Unity Asset Store</a>
