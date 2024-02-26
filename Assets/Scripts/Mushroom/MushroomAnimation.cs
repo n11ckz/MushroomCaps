@@ -7,12 +7,12 @@ public class MushroomAnimation : MonoBehaviour
     [SerializeField, Range(0.01f, 0.25f)] private float _duration;
     [SerializeField] private Ease _ease;
 
+    private SpriteRenderer _spriteRenderer;
     private Vector2 _defaultScale = Vector2.one;
-    [SerializeField] private SpriteRenderer _spriteRenderer;
 
     private void Awake()
     {
-        //_spriteRenderer = GetComponent<SpriteRenderer>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
         _defaultScale = transform.localScale;
     }
 
