@@ -4,7 +4,7 @@
 
 #### 🎮 Game:
 
-<p align="center"><img src="https://kappa.lol/cwepW" alt="Banner" style="width: 28vw"></p>
+<p align="center"><img src="https://kappa.lol/cwepW" height="300"></p>
 <p align="center"><strong>Mushroom Caps</strong> - a simple clicker game, just click and earn by buying and discovering new mushrooms! Try to earn as many mushroom caps as possible! The game was developed mostly to gain new experience and knowledge, and also as a portfolio project!</p>
 
 #### 🔧 Project:
@@ -16,20 +16,20 @@
 - Platfoms: `Browser`, `Pc`, `Telephone`
 
 #### 🗂 Assets:
-- DOTween — [Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
-- PluginYG — [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/pluginyg-yandex-game-integration-235877)
+- DOTween — <a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676" target="_blank">Unity Asset Store</a>
+- PluginYG — <a href="https://assetstore.unity.com/packages/add-ons/pluginyg-yandex-game-integration-235877" target="_blank">Unity Asset Store</a>
 
 ## 🔸 Links
 
 #### 📌 Available on:
 
-- Itch — [n11ckz.itch.io/mushroom-caps](https://n11ckz.itch.io/mushroom-caps)
-- Yandex Games — [yandex.ru/games/app/295942](https://yandex.ru/games/app/295942)
+- Itch — <a href="https://n11ckz.itch.io/mushroom-caps" target="_blank">n11ckz.itch.io/mushroom-caps</a>
+- Yandex Games — <a href="https://yandex.ru/games/app/295942" target="_blank">yandex.ru/games/app/295942</a>
 
 #### 📌 Other:
 
-- Telegram channel — [t.me/enokistudio](https://t.me/enokistudio)
-- My contact — [t.me/n11ckz](https://t.me/n11ckz)
+- Telegram channel — <a href="https://t.me/enokistudio" target="_blank">t.me/enokistudio</a>
+- My contact — <a href="https://t.me/n11ckz" target="_blank">t.me/n11ckz</a>
 
 ## 🔸 Authors
 
