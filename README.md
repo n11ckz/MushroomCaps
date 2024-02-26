@@ -4,7 +4,7 @@
 
 #### 🎮 Game:
 
-<p align="center"><img src="https://kappa.lol/cwepW" alt="Banner" style="width: 30vw"></p>
+<p align="center"><img src="https://kappa.lol/cwepW" alt="Banner" style="width: 28vw"></p>
 <p align="center"><strong>Mushroom Caps</strong> - a simple clicker game, just click and earn by buying and discovering new mushrooms! Try to earn as many mushroom caps as possible! The game was developed mostly to gain new experience and knowledge, and also as a portfolio project!</p>
 
 #### 🔧 Project:
