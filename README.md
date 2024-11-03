@@ -28,7 +28,6 @@
 
 #### 📌 Other:
 
-- Telegram channel — <a href="https://t.me/enokistudio" target="_blank">t.me/enokistudio</a>
 - My contact — <a href="https://t.me/n11ckz" target="_blank">t.me/n11ckz</a>
 
 ## 🔸 Authors
